@@ -14,4 +14,4 @@
 
 :pencil: 这是我的星球，欢迎大佬投稿加入，也欢迎萌新加入
 
-![图片](https://user-images.githubusercontent.com/75553451/200371913-33a44f4d-16b9-467a-af1c-159c3df1bb0f.png)
+![image](https://user-images.githubusercontent.com/75553451/202400307-9b32985c-d428-485d-85e8-0721be9e5c98.png)
