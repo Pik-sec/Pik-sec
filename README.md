@@ -8,10 +8,6 @@
 
 :fire: 公众号：Pik安全实验室 
 
-🥳 第 ![](https://view-counter-livid.vercel.app/api?username=Pik-sec) 被访问啦！
-
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Pik-sec&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
 <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Pik安全实验室);%20%20这是我的星球，欢迎投稿加入!&center=false&size=27">
 </a>
